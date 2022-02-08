@@ -1,0 +1,11 @@
+print ("--- DATA DIRI ---")
+nim = input("Nim :")
+nama = input("Nama :")
+pr = input("Program Studi :")
+emai = input("Email :")
+
+print ("--- Hasil dari cetak data diri ---")
+print ("Nim : " +str(nim))
+print ("Nama : " +str(nama))
+print ("Program Studi : " +str(pr))
+print ("Email : " +str(emai))
